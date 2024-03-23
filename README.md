@@ -12,7 +12,7 @@
 
 ## 项目基本信息
 
-项目体验地址：http://book.jarvlis.top, 目前体验服务器配置：1 核 2G
+项目体验地址：https://book.jarvlis.top, 目前体验服务器配置：1 核 2G
 
 前端：
 
